@@ -1,0 +1,7 @@
+Assert on error occurred
+assert 'OrangeHRM' == 'OrangeHRMz'
+  - OrangeHRMz
+  ?          -
+  + OrangeHRM
+I am inside finally block
+Test Completed
